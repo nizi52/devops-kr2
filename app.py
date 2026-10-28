@@ -1,3 +1,4 @@
+# KR2: Zainullin
 import os
 import socket
 
